@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Mechanizmy wtyczek dla Pythona
 Name:		python-%{module}
 # keep 0.13.x here for python2 support
 Version:	0.13.1
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pluggy/
